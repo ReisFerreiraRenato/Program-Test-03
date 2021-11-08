@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/02 10:21:51.000.864,=D:\ProjetoInfotec\Test\TestfrmCadastrarProduto.pas</Transaction>
+    <Transaction>2021/11/02 10:21:52.000.466,=D:\ProjetoInfotec\frmCadastrarProduto.pas</Transaction>
+    <Transaction>2021/11/02 10:30:41.000.793,D:\ProjetoInfotec\Test\TestfrmCadastrarProduto.pas=</Transaction>
+    <Transaction>2021/11/02 10:30:49.000.812,D:\ProjetoInfotec\frmCadastrarProduto.pas=</Transaction>
+    <Transaction>2021/11/02 18:56:23.000.142,=D:\ProjetoInfotec\Test\TestuntClasses.pas</Transaction>
+    <Transaction>2021/11/02 18:56:24.000.064,=D:\ProjetoInfotec\untClasses.pas</Transaction>
+    <Transaction>2021/11/02 19:48:36.000.106,=D:\ProjetoInfotec\untInterfaces.pas</Transaction>
+    <Transaction>2021/11/02 19:49:25.000.601,=D:\ProjetoInfotec\frmDataModulo.pas</Transaction>
+    <Transaction>2021/11/02 19:49:44.000.361,=D:\ProjetoInfotec\Funcoes.pas</Transaction>
+    <Transaction>2021/11/02 19:50:20.000.290,=D:\ProjetoInfotec\frmCadastrarProduto.pas</Transaction>
+    <Transaction>2021/11/02 19:50:52.000.991,=D:\ProjetoInfotec\frmCliente.pas</Transaction>
+    <Transaction>2021/11/02 19:51:08.000.282,=D:\ProjetoInfotec\frmProduto.pas</Transaction>
+    <Transaction>2021/11/02 19:51:27.000.041,=D:\ProjetoInfotec\frmConsultarVenda.pas</Transaction>
+    <Transaction>2021/11/02 19:51:52.000.539,=D:\ProjetoInfotec\ConsultarItensVendas.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="D:"/>
+    <File Path="D:\untClasses.pas"/>
+    <File Path="D:\untInterfaces.pas"/>
+    <File Path="D:\frmDataModulo.pas"/>
+    <File Path="D:\Funcoes.pas"/>
+    <File Path="D:\frmCadastrarProduto.pas"/>
+    <File Path="D:\frmCliente.pas"/>
+    <File Path="D:\frmProduto.pas"/>
+    <File Path="D:\frmConsultarVenda.pas"/>
+    <File Path="D:\ConsultarItensVendas.pas"/>
+    <File Path="TestuntClasses.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
